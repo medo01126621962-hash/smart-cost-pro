@@ -24,3 +24,4 @@ captures/
 *.keystore
 google-services.json
 secrets.properties
+.env
